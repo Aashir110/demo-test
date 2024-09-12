@@ -330,8 +330,8 @@ const styles = {
   },
   container: {
     padding: "20px",
-    paddingLeft: "150px",
-    paddingRight: "150px",
+    paddingLeft: "20px",
+    paddingRight: "20px",
     height: "100%",
   },
   header: {
